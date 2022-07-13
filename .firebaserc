@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firebasetodo20220707": {
+      "hosting": {
+        "firebase-todolist": [
+          "fir-todo20220707"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firebasetodo20220707"
+  }
+}
